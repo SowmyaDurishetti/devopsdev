@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+class sample
+{
+ main()
+  {
+    system.out.println("Hello , this is sample test");
+  }
+}
+
